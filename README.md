@@ -21,6 +21,10 @@
 5. https://wokwi.com/projects/412647112198075393
 6. https://wokwi.com/projects/412647180500229121
 
+## Laba 2
+
+1. https://wokwi.com/projects/419322136940022785
+
 ## Adafruit
 
 - [weather](https://wokwi.com/projects/419315335860071425)
