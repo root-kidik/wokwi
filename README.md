@@ -21,6 +21,12 @@
 5. https://wokwi.com/projects/412647112198075393
 6. https://wokwi.com/projects/412647180500229121
 
+## Adafruit
+
+- [weather](https://wokwi.com/projects/419315335860071425)
+
+![weather](imgs/weather.png)
+
 # PlatformIO
 
 ## Snake
